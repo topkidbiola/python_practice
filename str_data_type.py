@@ -1,0 +1,12 @@
+str = "i love python"
+print(str)
+print(type(str))
+print(len(str))
+print(str[0])
+print(str[2:6])
+print(str.lower())
+print(str.upper())
+print(str * 2)
+print(str +" "+ "and java")
+print(str.replace("python", "java"))
+print(str.split(" "))
